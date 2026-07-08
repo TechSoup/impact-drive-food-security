@@ -1,7 +1,7 @@
 # Contributing
 
 This is a **living corpus, not a finished publication.** Publishing here doesn't mean "done" — it means
-there's enough to be useful to someone else. Help us make it more useful.
+there's enough to be useful to someone else. Please help us make it more useful.
 
 ## How it grows
 
