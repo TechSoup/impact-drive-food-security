@@ -1,23 +1,19 @@
-# Co-design methodology — "things that might work"
+# Generate-Design-Select Methodology
 
-> **Status: PLACEHOLDER — to be authored by the design team.** 
+This is TechSoup's methodology, initially developed by the team at Caravan Studios, a division of TechSoup.
 
-This is **not prescriptive** and not a product-management playbook. It's a set of recommendations —
-*things that might work* — distilled from TechSoup's methodology for designing technology *with*
-communities, broken into accessible, actionable steps.
+It rests on one principle: community voices, expertise, and interests should guide and inform technology development. We **develop *with*, not *for*** — communities participate throughout the design process, not just at the end.
 
-The intent (from the 6/29 discussion), to be expanded:
+## The five phases
 
-- **Why trust us (ethos).** TechSoup have done this work across many organizations; some of the
-  assets here have already led people to build real solutions.
-- **Why it matters (pathos).** The human impact — feeding families with dignity — is the motivation.
-- **How to work through it (logos).** A proven, co-design-first process:
-  1. **Include the community.** Don't assume we did all the distillation for you.
-  2. **Know who the community is.** Local food banks, pantries, churches/cupboards, and the people served
-     (see [../sector/landscape.md](../sector/landscape.md)).
-  3. **Get in touch with them** — TechSoup can facilitate connections; go observe and talk to real users.
-  4. **Share what you're building** and gather feedback; iterate.
-  5. **Persevere, pivot, or stop** based on what you learn.
+Our process moves through five phases, each keeping the community in the lead.
 
-> To be completed: the concrete steps, framing, and any templates that make co-design easy to
-> adopt.
+- **Generate** — We facilitate sessions where diverse professionals — social workers, researchers, librarians, and community leaders — collaborate to name shared problems and ideate solutions together.
+- **Design** — Participants form teams, develop design questions, and create paper prototypes, using hands-on methods like drawing and cutting to visualize potential solutions.
+- **Select** — Community-designed prototypes become shareable posters displayed in public spaces. Feedback gathered from libraries and community centers directly informs which features get built.
+- **Build** — We hand the community-generated research and feedback to development teams — internal, contracted, or community-driven through hackathons.
+- **Use** — Communities help adopt and promote the tools they created. This is the power of community ownership: tools designed by and rooted in the community.
+
+## More to come
+
+We'll expand this page over time with additional tools and templates that put the methodology into practice. Check back as it grows.
