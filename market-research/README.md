@@ -13,7 +13,7 @@ How big is this, and who are the organizations? These are the **business-case in
   an **extrapolated world sizing** estimate (~331,000), and a breakdown by food-security dimension. We
   **avoid the term "TAM"** (see below), describe the method, and frame it as an in-process number we can
   help refine — plus "we can help you reach this market."
-- **[org-profiles/](org-profiles/)** — organization profiles by **budget size** and **mission**, organized
+- **[org-profiles/](org-profiles/README.md)** — organization profiles by **budget size** and **mission**, organized
   by the UN's four food-security dimensions, with a featured org archetype per region.
 - **[org-schema.md](org-schema.md)** — a reference schema for describing a food-security organization,
   borrowing from the OKF (Open Knowledge Format) civic-extension sample.
