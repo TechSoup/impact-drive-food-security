@@ -67,7 +67,7 @@ a precise total.
 ## 3. TechSoup-served orgs: breakdown by food-security dimension
 
 *(Processed jurisdictions only.)* This takes the 26,000 food-security organizations from our completed
-country cohorts and maps them against the UN's [four dimensions of food security](org-profiles/). Organizations
+country cohorts and maps them against the UN's [four dimensions of food security](org-profiles/README.md). Organizations
 are **not restricted to a single dimension** — many operate across several at once. The set includes
 non-traditional actors (e.g. houses of worship running community food banks) that are the actual
 frontline infrastructure on the ground.
@@ -83,7 +83,7 @@ frontline infrastructure on the ground.
 | **North America**      | 3,404        | 7,252      | 1,713       | 1,804     | 12,000              |
 | **Total**              | **9,852**    | **12,379** | **4,618**   | **3,649** | **26,000**          |
 
-See **[org-profiles/](org-profiles/)** for the budget, mission, and featured-profile detail behind each
+See **[org-profiles/](org-profiles/README.md)** for the budget, mission, and featured-profile detail behind each
 dimension and region.
 
 ---
