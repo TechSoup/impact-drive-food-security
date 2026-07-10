@@ -1,4 +1,4 @@
-# Impact Drive: food security
+# Impact Drive: Food Security
 
 > **What this is:** vetted, done-for-you research you can build on. Personas, jobs to be done, use cases,
 > and community-generated designs from real food-security organizations, packaged so a developer or maker
