@@ -15,5 +15,5 @@ and in each [design](../designs/)'s how-might-we question.
 | [Distribute the right food to the right pantries before it spoils](distribute-right-food-right-pantry.md) | Dan | provider |
 
 **A note on evidence.** The *need* behind each job is validated from the event. The **"how they do it
-today" flow is largely a gap**. Caravan's design events surface desired future states and data gaps, not
-detailed current-state workflows. That depth is expected to come from interviews (Iteration 2+).
+today" flow is largely a gap**. Caravan Studio's design events surface desired future states and data gaps, not
+detailed current-state workflows. That depth is expected to come from interviews (Iteration 2+) and from designing with the community.

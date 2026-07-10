@@ -9,11 +9,6 @@ appear in **plain, nonprofit language** alongside their developer translation.
   framing first ("clients can't tell which pantry is open when…") and then in developer terms. The
   [designs/](../designs/) show what solutions could look like.
 - **Tell us if these are your problems.** If they match what you see, or if you have others, let us know.
-  Your input shapes what gets built and helps us size and reach the market. (Contact details on the
-  landing page.)
+  Your input shapes what gets built and helps us size and reach the market. [Get in touch with your ideas here.](https://page.techsoup.org/impact-drive#getinvolved)
 - **We can be the glue.** TechSoup can connect you with developers and with other organizations in your
-  region, and bring solutions to a marketplace once they exist.
-
-> One thing AI is good at is translating between nonprofit language and developer language. If a developer's
-> solution doesn't *sound* like your problem, it may still be solving it; that's part of what this bridge is
-> for.
+  region, and bring solutions to a marketplace once they exist. [Tell us what you want to build.](https://page.techsoup.org/impact-drive#getinvolved)

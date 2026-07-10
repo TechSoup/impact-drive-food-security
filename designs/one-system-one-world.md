@@ -28,6 +28,8 @@ allocation. A critical need voiced by pantries was **more data on what is eaten*
 better at providing the food people want, both to please clients and to reduce waste. Clients can use this
 service to provide that information and more.
 
+If you work in food security: [tell us what you think about this idea](https://page.techsoup.org/impact-drive#getinvolved).
+
 ## Journey maps  (Awareness → Initiate use → Engagement → Tell others)
 
 ### Marguerita (client)

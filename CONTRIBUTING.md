@@ -16,7 +16,8 @@ there's enough to be useful to someone else. Please help us make it more useful.
   one is genuinely useful feedback right now).
 - **Open a pull request** to propose a change. A **committee review** decides what merges into the canonical
   corpus.
-- **Nonprofits:** tell us whether these are your problems, or send us others.
+- **Nonprofits:** tell us whether these are your problems, or send us others. [Get in touch with your ideas here.](https://page.techsoup.org/impact-drive#getinvolved)
+
 
 ## Content conventions
 
@@ -30,7 +31,8 @@ there's enough to be useful to someone else. Please help us make it more useful.
 ## Co-design
 
 Whatever you build, **build it with the community.** Recommend and design with local food banks, pantries,
-and the people they serve. TechSoup can help make those connections.
+and the people they serve. TechSoup can help make those connections. [Get in touch with your ideas here.](https://page.techsoup.org/impact-drive#getinvolved)
+
 
 ## Licensing
 

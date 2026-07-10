@@ -17,5 +17,5 @@ These live in internal document storage and are referenced as placeholders until
 
 ## Non-restricted links
 
-- [ESRI Food Security Design Session (TechSoup)](https://page.techsoup.org/esri-food-security-design-session)
+- [TechSoup web page about the Food Security Design Session and this Impact Drive](https://page.techsoup.org/impact-drive)
 - [Caravan Studios: Food Security Projects (Solve)](https://www.caravanstudios.org/foodsecurityprojects-solve)

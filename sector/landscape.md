@@ -38,8 +38,8 @@ If you're building here, **co-design with the community** (see
 - possibly a **church or volunteer-led food cupboard**, almost always volunteer-run, with the least
   capacity and the most need.
 
-TechSoup can help make these connections: see the README. We are the **connector / convener**, not a
-replacement for talking to users.
+TechSoup may be able to help make these connections. We are the **connector / convener**, not a
+replacement for talking to users. [Tell us what you want to build or what you need](https://page.techsoup.org/impact-drive#getinvolved).
 
 ## The two sides of "the customer"
 

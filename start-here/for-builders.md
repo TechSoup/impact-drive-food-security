@@ -7,8 +7,8 @@ the food-security sector. Here's a path through it.
    vs. pantries vs. cupboards, and the Feeding America 60% / disconnected 40% split), then
    [sector/why-this-is-hard.md](../sector/why-this-is-hard.md) so you don't reach for a one-size fix.
 
-2. **Meet the people.** Skim the [personas/](../personas/): two **clients** (Reba, Marguerita) and two
-   **providers** (Gladys, Dan). Pick the side you want to build for.
+2. **Meet the people.** Read the [personas/](../personas/): two **clients** (Reba, Marguerita) and two
+   **providers** (Gladys, Dan). 
 
 3. **Pick a Job to be Done.** Each [job](../jobs-to-be-done/) is an outcome someone needs, with a business
    case (why it matters) and links down to buildable pieces. Start here:
@@ -21,7 +21,8 @@ the food-security sector. Here's a path through it.
    Personal Pantry), including journey maps of how people would actually use them.
 
 5. **Then talk to the community.** These artifacts stoke ideas; they don't replace users. **Co-design** with
-   a local food bank or pantry. See [methodology.md](methodology.md). We can connect you.
+   a local food bank or pantry. See [methodology.md](methodology.md). We can connect you. [Get in touch here.](https://page.techsoup.org/impact-drive#getinvolved)
+
 
 **How far to trust an item:** check its `validation:` field. `validated` = grounded in the event/research
 (strongest for US/North America food banks & pantries). `hypothesized` = ask a partner before relying on it.

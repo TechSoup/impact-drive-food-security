@@ -3,7 +3,7 @@
 Two desired-state concepts produced by participants during the 2-day ESRI **Generate and Design** event
 (Chesterbrook, PA; facilitated by TechSoup and TechImpact). Each focuses on a pressing problem
 participants chose to address, expressed as a **how-might-we design question** plus an **idea
-description**, and carries the **journey maps** showing how specific personas would interact with it.
+description**, and **journey maps** showing how specific personas would interact with it.
 
 > These are a **higher fidelity** than the raw problem statements; they're imagined solutions, not just
 > needs. Use them to inform tools that help organizations address food insecurity, and **work with local
@@ -18,5 +18,4 @@ description**, and carries the **journey maps** showing how specific personas wo
 Awareness → Initiate use → Engagement → Tell others. Stages are left blank where the room didn't fill
 them in; that's expected.
 
-On the landing page these map to the **problem carousel** (the two Philadelphia how-might-we questions,
-added alongside the existing Caravan set).
+
