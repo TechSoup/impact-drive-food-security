@@ -1,14 +1,14 @@
-# Personas — WHO
+# Personas: WHO
 
 The people at the heart of the food-security work, drawn from the ESRI **Generate and Design** event
 (Chesterbrook, PA; facilitated by TechSoup and TechImpact). Use these personas to inform tools that help
-organizations address food insecurity — and **work with local organizations to validate and improve what
+organizations address food insecurity, and **work with local organizations to validate and improve what
 you build together.**
 
 Personas split two ways (`persona-type`):
 
-- **client** — a food-insecure person who *receives* food support (Reba, Marguerita)
-- **provider** — someone who *runs or supplies* food support: org staff or volunteers (Gladys, Dan)
+- **client**: a food-insecure person who *receives* food support (Reba, Marguerita)
+- **provider**: someone who *runs or supplies* food support: org staff or volunteers (Gladys, Dan)
 
 | Persona | Type | In one line |
 |---|---|---|

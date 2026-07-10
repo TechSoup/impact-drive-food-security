@@ -1,12 +1,12 @@
 ---
 type: org-profile
-title: "Org profiles — 3.1 Physical availability of food"
+title: "Org profiles: 3.1 Physical availability of food"
 category: [availability]
 validation: hypothesized
 source: TechSoup data enhancement (TechSoup market-research team)
 ---
 
-# Org profiles — 3.1 Physical availability of food
+# Org profiles: 3.1 Physical availability of food
 
 > One of the UN's [four dimensions of food security](README.md). Baseline numbers for a proof of concept,
 > subject to change.
@@ -29,7 +29,7 @@ source: TechSoup data enhancement (TechSoup market-research team)
 - **Regional focus:** Mitigating structural production deficits and increasing rural farm-yield optimization.
 - **Keywords:** agricultural development, sustainable agriculture, agricultural research, smallholder support, permaculture, shamba, maize mill
 
-**⭐ Featured profile — Rural smallholder collectives & extension networks**
+**⭐ Featured profile: Rural smallholder collectives & extension networks**
 Empowering small-scale farmers through climate-smart agricultural training, localized seed distribution, and collective market access to strengthen rural food production. **Count:** 210
 
 ---
@@ -42,7 +42,7 @@ Empowering small-scale farmers through climate-smart agricultural training, loca
 - **Regional focus:** Localized agrarian water-resource deployment and smallholder farming management.
 - **Keywords:** rural development, water resource management, agricultural support, marginal farmers, water harvesting, micro-irrigation grids
 
-**⭐ Featured profile — Rural water & agri-tech integrators**
+**⭐ Featured profile: Rural water & agri-tech integrators**
 Stabilizing local food availability across climate-vulnerable zones by combining community-led water-resource management with sustainable crop-cultivation training. **Count:** 920
 
 ---
@@ -55,7 +55,7 @@ Stabilizing local food availability across climate-vulnerable zones by combining
 - **Regional focus:** Macro sector governance, agricultural policy design, and state-backed agrarian industry modernization.
 - **Keywords:** agricultural development, agricultural support, agricultural sector development, agricultural project support, sector policy alignment, agrarian industry modernization
 
-**⭐ Featured profile — Climate-smart agtech innovators & scientific research**
+**⭐ Featured profile: Climate-smart agtech innovators & scientific research**
 Conducting data-driven academic research, seed-breeding trials, and climate-smart engineering studies to build resilient local food-production frameworks. **Count:** 20
 
 ---
@@ -68,7 +68,7 @@ Conducting data-driven academic research, seed-breeding trials, and climate-smar
 - **Regional focus:** Agro-ecological research, agrarian technology transfers, and circular-economy agricultural practices.
 - **Keywords:** sustainable agriculture, agricultural research, agro-ecological platform, agrotechnological transfer, crop research publications
 
-**⭐ Featured profile — Rural supply aggregators**
+**⭐ Featured profile: Rural supply aggregators**
 Maximizing local food production and security by coordinating smallholder networks, managing regional land conservation, and securing European agricultural investments. **Count:** 400
 
 ---
@@ -81,7 +81,7 @@ Maximizing local food production and security by coordinating smallholder networ
 - **Regional focus:** Local land allotments, heritage-breed conservation, and localized sub-commercial farming networks.
 - **Keywords:** agricultural education, allotments, heritage livestock preservation, community smallholdings
 
-**⭐ Featured profile — Agricultural show & showground heritage societies**
+**⭐ Featured profile: Agricultural show & showground heritage societies**
 Organizing large-scale annual agricultural exhibitions, competitive livestock-breeding shows, and rural trade fairs to promote regional economic development and preserve heritage farming. **Count:** 55
 
 ---
@@ -94,14 +94,14 @@ Organizing large-scale annual agricultural exhibitions, competitive livestock-br
 - **Regional focus:** Technical agrarian assistance, crop-tech transfers, and sustainable rural cultivation value chains.
 - **Keywords:** agricultural development, sustainable agriculture, agricultural research, agricultural training, agrotechnological transfers, indigenous crop cultivation support
 
-**⭐ Featured profile — Biodiversity & agro-ecological guardians**
+**⭐ Featured profile: Biodiversity & agro-ecological guardians**
 Securing regional food availability by driving community-based conservation, reforestation, and sustainable agro-forestry projects across vulnerable tropical and forest ecosystems. **Count:** 620
 
 ---
 
 ## North America
 
-*(Most validated cohort — non-reporting segment near zero.)*
+*(Most validated cohort: non-reporting segment near zero.)*
 
 - **Covered jurisdictions:** US
 - **Orgs in region:** 3,404
@@ -109,5 +109,5 @@ Securing regional food availability by driving community-based conservation, ref
 - **Regional focus:** Formalized extension-service operations, interactive agrarian workshops, and structured digital distribution of farming data.
 - **Keywords:** agricultural education, agricultural development, extension service program, county agrarian exhibition, technical farming workshops
 
-**⭐ Featured profile — Community agricultural education & youth farm incubators**
+**⭐ Featured profile: Community agricultural education & youth farm incubators**
 Providing hands-on agricultural literacy, seasonal youth camps, and sustainable farming workshops across community-led farm facilities to build long-term food-production knowledge. **Count:** 1,380

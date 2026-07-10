@@ -1,6 +1,6 @@
-# Solutions — prior art
+# Solutions: prior art
 
-Existing tools and solutions a builder can reuse, extend, or learn from — so nobody reinvents the wheel and
+Existing tools and solutions a builder can reuse, extend, or learn from, so nobody reinvents the wheel and
 we can see "is this still a problem?" judgments.
 
 > **Status: not yet surveyed.** No prior art has been catalogued for the current jobs, which is why all

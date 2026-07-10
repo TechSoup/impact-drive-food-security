@@ -14,7 +14,7 @@ needs assistance feeding her family. She is a regular user of a community pantry
 resources that better fit her family's changing needs.
 
 ## Goal
-Anonymity, convenience, and timing — get the food her family needs without judgment, on a schedule that
+Anonymity, convenience, and timing: get the food her family needs without judgment, on a schedule that
 fits her life.
 
 ## Digital capability

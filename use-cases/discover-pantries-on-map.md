@@ -17,8 +17,8 @@ Reveal coverage overlaps (e.g. two pantries open the same hours less than a mile
 conversations about offsetting hours. Enable introductions ahead of community food events.
 
 ## Evidence
-- Validated by: ESRI Generate and Design — Dan's new-pantry notification and mapping feature in
+- Validated by: ESRI Generate and Design: Dan's new-pantry notification and mapping feature in
   [Personal Pantry](../designs/personal-pantry.md).
 
 ## Prior art
-- See [solutions](../solutions/) — not yet surveyed.
+- See [solutions](../solutions/), not yet surveyed.

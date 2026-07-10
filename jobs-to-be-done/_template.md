@@ -16,8 +16,8 @@ market: <e.g. "US food banks & pantries">
 - **Developer translation:** <the same need restated for someone who'll build it>
 
 ## Process / Flow
-<How the job gets done — story map / journey. Fill only stages we have evidence for; empty is fine.
-NOTE: the "how they do it today" flow is largely a GAP — to come from interviews.>
+<How the job gets done: story map / journey. Fill only stages we have evidence for; empty is fine.
+NOTE: the "how they do it today" flow is largely a GAP, to come from interviews.>
 
 ## Use cases / user stories
 - [<use-case file>](../use-cases/<file>.md)

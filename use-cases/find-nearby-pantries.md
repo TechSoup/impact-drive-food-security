@@ -17,8 +17,8 @@ options. Surface less-obvious options (e.g. a pantry farther away but open in th
 from other clients about selection and environment. Keep it light for limited-data Android phones.
 
 ## Evidence
-- Validated by: ESRI Generate and Design — [One System, One World](../designs/one-system-one-world.md),
+- Validated by: ESRI Generate and Design: [One System, One World](../designs/one-system-one-world.md),
   [Personal Pantry](../designs/personal-pantry.md) (Reba & Marguerita journey maps).
 
 ## Prior art
-- See [solutions](../solutions/) — not yet surveyed.
+- See [solutions](../solutions/), not yet surveyed.

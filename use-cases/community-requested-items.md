@@ -17,8 +17,8 @@ engaged congregation, and let the coordinator confirm when requested items are a
 between client requests (see [client-anonymous-profile](client-anonymous-profile.md)) and what's stocked.
 
 ## Evidence
-- Validated by: ESRI Generate and Design — Gladys adds visitor-requested items; the congregation loves a
+- Validated by: ESRI Generate and Design: Gladys adds visitor-requested items; the congregation loves a
   list of what's needed, in [Personal Pantry](../designs/personal-pantry.md).
 
 ## Prior art
-- See [solutions](../solutions/) — not yet surveyed.
+- See [solutions](../solutions/), not yet surveyed.

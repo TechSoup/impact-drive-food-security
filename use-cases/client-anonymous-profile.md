@@ -13,12 +13,12 @@ validation: validated
 
 ## What a solution might do
 An optional profile capturing typical needs, favorites, and requests to improve future recommendations.
-Anonymity must be genuine and easy to choose (a clear "anonymous" option) — important for clients worried
+Anonymity must be genuine and easy to choose (a clear "anonymous" option): important for clients worried
 about safety. Requests can flow to pantries to inform what they stock.
 
 ## Evidence
-- Validated by: ESRI Generate and Design — anonymity and preference capture appear across both designs;
+- Validated by: ESRI Generate and Design: anonymity and preference capture appear across both designs;
   Reba favorites/requests items and checks "anonymous" in [Personal Pantry](../designs/personal-pantry.md).
 
 ## Prior art
-- See [solutions](../solutions/) — not yet surveyed.
+- See [solutions](../solutions/), not yet surveyed.

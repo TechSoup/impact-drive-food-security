@@ -8,9 +8,9 @@ source: ESRI Generate and Design materials + SME input; to be expanded from the 
 
 # Why this is hard
 
-> The non-obvious constraints that keep these problems unsolved — so a builder doesn't assume "you just
+> The non-obvious constraints that keep these problems unsolved, so a builder doesn't assume "you just
 > need this one magic technology." These operate at both the **user level** and the **system level**.
-> *(Draft — the fuller constraints section lives in the sector source report and will be folded in once it's in the
+> *(Draft, the fuller constraints section lives in the sector source report and will be folded in once it's in the
 > drive.)*
 
 ## At the user level
@@ -28,8 +28,8 @@ source: ESRI Generate and Design materials + SME input; to be expanded from the 
   [Gladys](../personas/gladys.md) (75, iPad + flip phone) with limited skills, hours, and a
   **no succession plan** risk. Anything built must demand near-zero setup.
 - **No infrastructure.** Limited refrigeration and storage mean food can't simply be held over time.
-- **Missing data.** Providers like [Dan](../personas/dan.md) often operate *without* the data they need —
-  not solving the problem badly, but with a complete gap — which leads to waste (wrong food to the wrong
+- **Missing data.** Providers like [Dan](../personas/dan.md) often operate *without* the data they need,
+  not solving the problem badly, but with a complete gap, which leads to waste (wrong food to the wrong
   place). Many of these are **greenfield, missing-data** problems where data collection is the hard part.
 
 ## At the system level
@@ -37,12 +37,12 @@ source: ESRI Generate and Design materials + SME input; to be expanded from the 
 - **Disconnection from networks.** ~40% of orgs sit outside Feeding America (see
   [landscape.md](landscape.md)) and lack visibility, support, and funding.
 - **Data fragmentation and trust.** Data isn't aligned across organizations; sharing it requires trust and
-  must meet administrative requirements — one of the two design questions tackled at the event.
+  must meet administrative requirements: one of the two design questions tackled at the event.
 - **Funding and policy constraints.** Sometimes orgs *can't act* on a known gap because funding or policy
-  blocks it — not a "doing it badly" problem but a "can't execute" one.
+  blocks it, not a "doing it badly" problem but a "can't execute" one.
 
 ## What this means for builders
 
 Don't treat these as pure software problems. Expect to design *with* the community, to handle privacy as a
-hard constraint, and — for the missing-data jobs — to treat **data collection itself as part of the
+hard constraint, and, for the missing-data jobs, to treat **data collection itself as part of the
 product**.

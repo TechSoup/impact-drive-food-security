@@ -24,7 +24,7 @@ brought home is provided to the pantry to improve services. **All personally ide
 deleted and not recorded.**
 
 Valuable information about pantry visits is shared with food banks to improve services and resource
-allocation. A critical need voiced by pantries was **more data on what is eaten** — pantries want to be
+allocation. A critical need voiced by pantries was **more data on what is eaten**. Pantries want to be
 better at providing the food people want, both to please clients and to reduce waste. Clients can use this
 service to provide that information and more.
 
@@ -35,7 +35,7 @@ service to provide that information and more.
   learn what they offer.
 - **Initiate use:** Scans the poster's QR code and downloads the app.
 - **Engagement:** At home, she fills out her profile with typical food needs. Searching nearby pantries,
-  she finds one a bit farther away that's open in the evening — most convenient for her schedule — and
+  she finds one a bit farther away that's open in the evening, most convenient for her schedule, and
   notes others liked its environment and selection. She visits the next day. There, a poster offers a
   feedback form (via QR code); later that week she reports what she received and what her family ate,
   noting they didn't drink the provided milk and would rather not bring milk home. Providing feedback
@@ -45,7 +45,7 @@ service to provide that information and more.
 ### Dan (provider)
 - **Awareness:** *[left intentionally blank]*
 - **Initiate use:** *[left intentionally blank]*
-- **Engagement:** Dan views information pantries submitted about inventory and orders — informed by what
+- **Engagement:** Dan views information pantries submitted about inventory and orders, informed by what
   visitors received, would like, consumed, and didn't eat. He sees **no personally identifiable
   information**, just the data points he uses to distribute food to pantries in his region.
 - **Tell others:** *[left intentionally blank]*

@@ -15,7 +15,7 @@ to the pantries, but he doesn't know much about the individual pantries or the s
 people who visit them, and he doesn't yet think deeply about food waste or specific needs.
 
 ## Goal
-Move food out of the warehouse before it begins to spoil — to the right places.
+Move food out of the warehouse before it begins to spoil, to the right places.
 
 ## Digital capability
 Full access to a computer, the latest iPhone, and high-speed internet. Digitally savvy and curious.

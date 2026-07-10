@@ -14,7 +14,7 @@ Marguerita, 41, struggles to put food on the table. She has three kids still in 
 choices between paying bills and buying food.
 
 ## Goal
-Keep a roof over her head and reliably pay bills each month — food support has to fit around that without
+Keep a roof over her head and reliably pay bills each month. Food support has to fit around that without
 adding risk or hassle.
 
 ## Digital capability

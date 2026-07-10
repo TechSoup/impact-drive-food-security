@@ -14,27 +14,27 @@ food support in a way that preserves their privacy and dignity?
 
 ## Idea description
 Similar to One System, One World, Personal Pantry provides information about food resources with a
-**mapping feature** and details about each pantry — hours, location, payment options, delivery
+**mapping feature** and details about each pantry: hours, location, payment options, delivery
 opportunities, and the foods each offers. Clients' choices are recorded (food preferences, requests,
 favorite pantries) and shared with the food bank so supply can be optimized. Clients can choose to be
 **anonymous**, a common and important request for people patronizing food pantries.
 
 Many food pantries are small, hyper-local, and volunteer-led. When those small pantries use the system,
-they share information with other pantries and food banks that may be part of a formal network — so a
+they share information with other pantries and food banks that may be part of a formal network, so a
 food bank can see the broader collection of resources in a region and better manage supply and demand.
 Personal Pantry can also surface the **benefits of being connected** to the broader network, possibly
 incentivizing a volunteer-led pantry to join. A disconnected pantry's participation creates an
 introduction to other pantries and food banks, so a future conversation or connection might happen.
 
 To encourage network building, another feature is **in-person community events** that bring providers
-together — to offer food, meet each other, learn about services, and expand and map the food-resource
+together: to offer food, meet each other, learn about services, and expand and map the food-resource
 community. These events are also an opportunity to share Personal Pantry with providers and clients.
 
 Food banks can better support pantries when they know more about community needs. Volunteer-led pantry
 staff often don't know what resources are available and have no succession plan; small pantries often lack
 storage space, so they are incentivized to share inventory and information so clients will come and
 benefit from it. When a pantry connects to a formal network, it might receive infrastructure support,
-greater visibility, and possibly funding — and that connection allows better resource allocation across
+greater visibility, and possibly funding, and that connection allows better resource allocation across
 the region, whether opening a new pantry or supporting a small, hyper-local one. Personal Pantry provides
 access to food resources, shares client-need information with pantries and food banks, and is an
 intentional **network-building apparatus** for a region.
@@ -49,7 +49,7 @@ intentional **network-building apparatus** for a region.
 - **Initiate use:** Uses the flyer's QR code to get the free app from the Google Play Store.
 - **Engagement:** Finds a church pantry on her bus line, open at unusual hours that fit her schedule. She
   browses the selection, favorites items she always needs, and requests others she'd love to see. She
-  checks the **"anonymous"** box — no one needs to know her personal business.
+  checks the **"anonymous"** box: no one needs to know her personal business.
 - **Tell others:** *[left intentionally blank]*
 
 ### Gladys (provider)
@@ -65,7 +65,7 @@ intentional **network-building apparatus** for a region.
 - **Awareness:** *[left intentionally blank]*
 - **Initiate use:** *[left intentionally blank]*
 - **Engagement:** Logs in and views inventory and orders from pantries in his network. He's notified about
-  a **new pantry** in his region he's never heard of — likely small, since it's in a community church. He
+  a **new pantry** in his region he's never heard of (likely small, since it's in a community church). He
   notes an opportunity to connect and share resources and looks for someone who could make an introduction
   before the community food event. Although he can't see the church pantry's details yet, he sees it's
   open the same hours as a pantry less than a mile away; the **mapping feature** shows the regional network

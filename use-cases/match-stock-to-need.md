@@ -13,12 +13,12 @@ validation: validated
 
 ## What a solution might do
 Combine warehouse inventory (and spoilage timelines) with each pantry's current capacity and demonstrated
-consumption to recommend what to send where. The hard part — and the value — is the underlying data
+consumption to recommend what to send where. The hard part, and the value, is the underlying data
 collection as much as the matching logic.
 
 ## Evidence
-- Validated by: ESRI Generate and Design — Dan's goal (move food before spoilage) and gaps (unknown pantry
+- Validated by: ESRI Generate and Design: Dan's goal (move food before spoilage) and gaps (unknown pantry
   capacity / needs) in [his persona](../personas/dan.md) and both designs.
 
 ## Prior art
-- See [solutions](../solutions/) — not yet surveyed.
+- See [solutions](../solutions/), not yet surveyed.

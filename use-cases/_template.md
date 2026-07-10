@@ -14,7 +14,7 @@ validation: validated | hypothesized
 <Direction, not a spec. Leave room for builder creativity.>
 
 ## Evidence
-- Validated by: <session / interview / design>   [PLACEHOLDER — link later]
+- Validated by: <session / interview / design>   [PLACEHOLDER: link later]
 
 ## Prior art
 - See [solutions](../solutions/) for existing tools that touch this.

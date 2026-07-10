@@ -8,17 +8,17 @@ source: TechSoup data enhancement + extrapolation (TechSoup market-research team
 
 # Sizing data
 
-> **Baseline for a proof of concept — subject to change.** These are in-process numbers, not a precise
+> **Baseline for a proof of concept: subject to change.** These are in-process numbers, not a precise
 > claim. We present them as: *"here's the known TechSoup market share in this domain, and here's how we'd
 > survey and reach it to refine this into a defined number."* We deliberately **avoid "TAM" / "total
-> addressable market"** language — see the [terminology note](README.md#a-note-on-terminology).
+> addressable market"** language. See the [terminology note](README.md#a-note-on-terminology).
 
 Two views, plus a breakdown by food-security dimension:
 
-1. **TechSoup-served orgs** — the defensible number we start from (orgs already in our network).
-2. **Extrapolated world sizing** — a baseline estimate across the full nonprofit universe. *Art, not
-   science* — the method is stated below.
-3. **Breakdown by food-security dimension** — the processed cohorts mapped to the UN's four dimensions.
+1. **TechSoup-served orgs**: the defensible number we start from (orgs already in our network).
+2. **Extrapolated world sizing**: a baseline estimate across the full nonprofit universe. *Art, not
+   science*: the method is stated below.
+3. **Breakdown by food-security dimension**: the processed cohorts mapped to the UN's four dimensions.
 
 ---
 
@@ -40,7 +40,7 @@ remaining 440,000 US organizations and 247,000 organizations across 210 other ju
 | **North America**      | US                                 | 140,000           | 8.5%               | 12,000                   |
 | *Unprocessed*          | US                                 | 440,000           | 8.5% (est.)        | 40,000 (est.)            |
 | *Unprocessed*          | 210 jurisdictions                  | 247,000           | 8.0% (est.)        | 20,000 (est.)            |
-| **Total**              | —                                  | **1,000,000**     | **8.6%**           | **86,000**               |
+| **Total**              | N/A                                | **1,000,000**     | **8.6%**           | **86,000**               |
 
 ---
 
@@ -48,7 +48,7 @@ remaining 440,000 US organizations and 247,000 organizations across 210 other ju
 
 This view maps the macro universe. Across the full global ecosystem of ~4.3 million nonprofits, we apply
 baseline regional trends to estimate that roughly **331,000 organizations worldwide** are engaged in
-food-security work. This is a benchmark for the potential global market — a starting point to refine, not
+food-security work. This is a benchmark for the potential global market: a starting point to refine, not
 a precise total.
 
 | Region                 | Jurisdictions | Total NGOs     | Est. % food orgs   | Est. food orgs     |
@@ -68,7 +68,7 @@ a precise total.
 
 *(Processed jurisdictions only.)* This takes the 26,000 food-security organizations from our completed
 country cohorts and maps them against the UN's [four dimensions of food security](org-profiles/README.md). Organizations
-are **not restricted to a single dimension** — many operate across several at once. The set includes
+are **not restricted to a single dimension**; many operate across several at once. The set includes
 non-traditional actors (e.g. houses of worship running community food banks) that are the actual
 frontline infrastructure on the ground.
 
@@ -97,5 +97,5 @@ Rather than treating these figures as an absolute science, we present them as:
 
 Percentages and extrapolations were derived from baseline data in regions where TechSoup's data-enhancement
 work is already active, then applied to comparable regions. By showing the method explicitly, we give
-partners and funders confidence that we can systematically help **target, reach, and map** this ecosystem —
+partners and funders confidence that we can systematically help **target, reach, and map** this ecosystem,
 rather than over-claiming a precise total.
