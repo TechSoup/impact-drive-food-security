@@ -1,12 +1,10 @@
 # Impact Drive: Food Security
 
-> \*\*What this is:\*\* vetted, done-for-you research you can build on. Personas, jobs to be done, use cases,
-> and community-generated designs from real food-security organizations, packaged so a developer or maker
+> \\\*\\\*What this is:\\\*\\\* vetted, done-for-you research you can build on. Personas, jobs to be done, use cases,
+> and community-generated designs from real food security organizations, packaged so a developer or maker
 > can pick up a validated problem and start building, without us in a meeting.
 
-We're a nonprofit with strong ties to communities and the organizations that serve them. Our community-driven methodology creates technology ideas that developers can use to build solutions designed by the people who need them.   **data + insights provider**. Here's a sanitized, synthesized, vetted picture of the problem, the
-people, and (soon) the market. **It's up to you to build something.** If you need more data or want to talk
-to a food bank, we can connect you. [Tell us](https://page.techsoup.org/impact-drive#getinvolved) what you want to build and how we can help.
+We're a nonprofit with strong ties to communities and the organizations that serve them. Our community-driven methodology creates technology ideas that developers can use to build solutions designed by the people who need them. Here's a sanitized, synthesized, vetted picture of the problem, the people, and the market. **It's up to you to build something.** If you need more data or want to talk to a food security organization, get in touch with us. [Tell us](https://page.techsoup.org/impact-drive#getinvolved) what you want to build and how we can help.
 
 This is an early **proof of concept**. It's a living corpus, not a finished publication. See
 [CONTRIBUTING.md](CONTRIBUTING.md) for how it grows and how to contribute.
@@ -54,7 +52,7 @@ These artifacts stoke imagination; they don't replace talking to the community. 
 
 * **Developers:** explore the repo, then open an **issue** or **pull request** with what you're building or
 what you'd change.
-* **Nonprofits:** tell us if these are your problems, or send us others. [Share you ideas here]https://page.techsoup.org/impact-drive#getinvolved.
+* **Nonprofits:** tell us if these are your problems, or send us others. \[Share you ideas here]https://page.techsoup.org/impact-drive#getinvolved.
 * **Need more?** We can help size and reach the market, and connect you with local food banks and pantries
 for co-design.
 
