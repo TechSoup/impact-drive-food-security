@@ -6,15 +6,20 @@
 
 We're a nonprofit with strong ties to communities and the organizations that serve them. Our community-driven methodology creates technology ideas that developers can use to build solutions designed by the people who need them. Here's a sanitized, synthesized, vetted picture of the problem, the people, and the market. **It's up to you to build something.** If you need more data or want to talk to a food security organization, get in touch with us. [Tell us](https://page.techsoup.org/impact-drive#getinvolved) what you want to build and how we can help.
 
-This is an early **proof of concept**. It's a living corpus, not a finished publication. See
-[CONTRIBUTING.md](CONTRIBUTING.md) for how it grows and how to contribute.
+This Impact Drive was made possible with support from Esri.
+
+This is the first published Impact Drive — a continuously updated body of validated research on food
+security organizations and the technology that serves them. It grows through community contribution and
+TechSoup's ongoing sector work. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
 
 \---
 
 ## Start here
 
 * **I'm a developer / maker →** [start-here/for-builders.md](start-here/for-builders.md)
-* **I'm at a nonprofit / CSR team →** [start-here/for-nonprofits.md](start-here/for-nonprofits.md)
+* **I'm at a nonprofit →** [start-here/for-nonprofits.md](start-here/for-nonprofits.md)
+* **I'm on a CSR or corporate giving team →** [start-here/for-csr-teams.md](start-here/for-csr-teams.md)
+* **I'm a funder or potential partner →** [start-here/for-partners.md](start-here/for-partners.md)
 * **New to the sector?** Read [sector/landscape.md](sector/landscape.md) (who the players are) and
 [sector/why-this-is-hard.md](sector/why-this-is-hard.md).
 
