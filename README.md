@@ -12,8 +12,6 @@ This is the first published Impact Drive — a continuously updated body of vali
 security organizations and the technology that serves them. It grows through community contribution and
 TechSoup's ongoing sector work. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
 
-\---
-
 ## Start here
 
 * **I'm a developer / maker →** [start-here/for-builders.md](start-here/for-builders.md)
