@@ -18,6 +18,8 @@ How big is this, and who are the organizations? These are the **business-case in
 - **[org-schema.md](org-schema.md)**: a reference schema for describing a food-security organization,
   borrowing from the OKF (Open Knowledge Format) civic-extension sample.
 - **[data-commons.md](data-commons.md)**: a pointer for partners to explore TechSoup data themselves.
+- **[living-atlas.md](living-atlas.md)**: a pointer for partners to explore Esri's ArcGIS Living Atlas
+  geographic datasets themselves.
 
 ## A note on terminology
 
