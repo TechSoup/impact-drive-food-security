@@ -1,9 +1,8 @@
-\---
-
+---
 type: job-to-be-done
 title: Find convenient, dignified food support
-personas: \[reba, marguerita]
-category: \[economic-physical-access, utilization-safety, stability-resilience]
+personas: [reba, marguerita]
+category: [economic-physical-access, utilization-safety, stability-resilience]
 validation: validated
 maturity: greenfield
 market: US food-insecure households near food banks \& pantries
