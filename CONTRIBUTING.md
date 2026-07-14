@@ -1,3 +1,8 @@
+---
+type: reference
+title: Contributing
+---
+
 # Contributing
 
 This is a **living corpus, not a finished publication.** Publishing here doesn't mean "done"; it means

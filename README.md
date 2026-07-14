@@ -1,7 +1,7 @@
 # Impact Drive: Food Security
 
 >*What this is:* vetted, done-for-you research you can build on. Personas, jobs to be done, use cases, and
-> and community-generated designs from real food security organizations, packaged so a developer or maker
+> community-generated designs from real food security organizations, packaged so a developer or maker
 > can pick up a validated problem and start building, without us in a meeting.
 
 We're a nonprofit with strong ties to communities and the organizations that serve them. Our community-driven methodology creates technology ideas that developers can use to build solutions designed by the people who need them. Here's a sanitized, synthesized, vetted picture of the problem, the people, and the market. **It's up to you to build something.** If you need more data or want to talk to a food security organization, get in touch with us. [Tell us](https://page.techsoup.org/impact-drive#getinvolved) what you want to build and how we can help.

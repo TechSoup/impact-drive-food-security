@@ -1,10 +1,3 @@
----
-type: reference
-title: Organization profiles
-validation: hypothesized
-source: TechSoup data enhancement (TechSoup market-research team)
----
-
 # Organization profiles
 
 Who are the organizations behind the [sizing data](../sizing-data.md)? These profiles describe them on the

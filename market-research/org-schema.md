@@ -2,7 +2,7 @@
 type: reference
 title: Organization schema (reference)
 validation: hypothesized
-source: OKF civic extension (proposed) [PLACEHOLDER: Iteration 2]
+source: "OKF civic extension (proposed) [PLACEHOLDER: Iteration 2]"
 ---
 
 # Organization schema (reference)

@@ -2,7 +2,7 @@
 type: reference
 title: Explore the data (Data Commons)
 validation: hypothesized
-source: TechSoup data in Data Commons [PLACEHOLDER: Iteration 2]
+source: "TechSoup data in Data Commons [PLACEHOLDER: Iteration 2]"
 ---
 
 # Explore the data yourself
