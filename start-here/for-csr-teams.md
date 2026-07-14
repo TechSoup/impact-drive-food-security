@@ -1,5 +1,4 @@
-\---
-
+---
 type: orientation
 audience: csr-corporate-giving
 validation: validated
