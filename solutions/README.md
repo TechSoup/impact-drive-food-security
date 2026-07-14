@@ -1,7 +1,3 @@
----
-type: index
-status: in-progress
----
 # Solutions
 A surveyed landscape of existing tools addressing food security issues, including who the tool serves and how it fits the jobs to be done in this Food Security Impact Drive.
 
