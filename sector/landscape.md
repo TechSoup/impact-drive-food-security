@@ -1,6 +1,6 @@
 ---
 type: reference
-title: The food-security sector: who the players are
+title: The food-security sector; who the players are
 validation: validated
 region: north-america
 source: TechSoup / Caravan SME input (6/29); to be enriched from the sector source report
