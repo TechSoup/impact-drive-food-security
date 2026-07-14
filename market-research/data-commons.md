@@ -1,19 +1,12 @@
 ---
 type: reference
 title: Explore the data (Data Commons)
-validation: hypothesized
-source: "TechSoup data in Data Commons [PLACEHOLDER: Iteration 2]"
+validation: validated
+source: "TechSoup data in Data Commons"
 ---
 
 # Explore the data yourself
 
-> **PLACEHOLDER: Iteration 2.** A reference so partners can play with TechSoup's data directly and get a
-> sense of the reality.
+> Data Commons for Civil Society is a powerful tool that makes it easy for nonprofits, NGOs, and other civil society organizations to find and use public data and to explore connections between data sets.
 
-- [ ] Add the Data Commons link.
-
-**Caveats to state when we add this:**
-- TechSoup's data there is rolled up to a higher level (e.g. **Health & Human Services**), so it won't
-  always break out "food security" cleanly, but many of those orgs run a food pantry or cupboard as part
-  of broader work, so the solutions may still apply.
-- The data we contributed is **timelines**, not maps.
+Access [Data Commons](https://datacommons.techsoup.org/)to explore datasets relevant to what you're building. 
