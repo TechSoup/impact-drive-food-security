@@ -39,12 +39,12 @@ Persona (WHO)  →  Job to be Done (the OUTCOME)  →  Use Cases / User Stories 
 |[sector/](sector/)|Foundational context: who the players are, why it's hard|
 |[solutions/](solutions/)|Prior art: existing tools *(not yet surveyed)*|
 |[market-research/](market-research/)|Sizing data + org profiles *(Iteration 2)*|
-|[research-library/](research-library/)|Source reports \& background|
+|[research-library/](research-library/)|Source reports & background|
 |[start-here/](start-here/)|Orientation + the co-design methodology|
 
 Every file is plain markdown with YAML front matter (Open Knowledge Format; the only required field is
 `type`). Items are tagged `validation: validated | hypothesized` so you know how far to trust them. Today
-the strongest validation is **US / North America** food banks \& pantries.
+the strongest validation is **US / North America** food banks & pantries.
 
 ## Co-design is the point
 
@@ -55,7 +55,7 @@ These artifacts stoke imagination; they don't replace talking to the community. 
 
 * **Developers:** explore the repo, then open an **issue** or **pull request** with what you're building or
 what you'd change.
-* **Nonprofits:** tell us if these are your problems, or send us others. \[Share you ideas here]https://page.techsoup.org/impact-drive#getinvolved.
+* **Nonprofits:** tell us if these are your problems, or send us others. [Share you ideas here](https://page.techsoup.org/impact-drive#getinvolved).
 * **Need more?** We can help size and reach the market, and connect you with local food banks and pantries
 for co-design.
 
