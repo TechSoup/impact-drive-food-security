@@ -1,10 +1,9 @@
-\---
-
+---
 type: design
 name: Personal Pantry
 design-question: How might we map the capacity of the food distribution experience so we can consistently connect people to food support in a way that preserves their privacy and dignity?
-personas: \[reba, gladys, dan]
-category: \[economic-physical-access, availability, stability-resilience]
+personas: [reba, gladys, dan]
+category: [economic-physical-access, availability, stability-resilience]
 validation: validated
 source: esri-generate-and-design-2026
 ---
