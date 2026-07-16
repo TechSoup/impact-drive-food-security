@@ -10,10 +10,11 @@ that's fine. This is the honest "useful report, not an AI-friendly packet yet" b
   *[PLACEHOLDER, to be added to the drive.]*
 - Other food-security reports (e.g. State of Giving), placed as-is. *[PLACEHOLDER]*
 
-## Source documents (restricted, links to be added once cleared for public sharing)
+## Source documents (more links to be added as finalized)
 
-Day 1 report, Day 2 report, ESRI deck, Research Brief, List of Tech & Software, Initial Research Reports.
-These live in internal document storage and are referenced as placeholders until shareable links are added.
+- [Generate + Design report](Esri%20Generate%20and%20Design%20report.pdf)
+
+Research Brief, List of Tech & Software, Initial Research Reports. These live in internal document storage and are referenced as placeholders until shareable links are added.
 
 ## Non-restricted links
 
