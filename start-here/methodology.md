@@ -1,6 +1,6 @@
 # Generate-Design-Select Methodology
 
-This is TechSoup's methodology, initially developed by the team at \[Caravan Studios](https://www.caravanstudios.org/), a division of TechSoup.
+This is TechSoup's methodology, initially developed by the team at [Caravan Studios](https://www.caravanstudios.org/), a division of TechSoup.
 
 It rests on one principle: community voices, expertise, and interests should guide and inform technology development. We **develop *with*, not <i>for</i>**. Communities participate throughout the design process, not just at the end.
 
